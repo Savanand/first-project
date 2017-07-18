@@ -5,6 +5,7 @@ public class HelloWorld {
 		System.out.println("Added new statements");
 		System.out.println("HelloWorld from test-project");
 		System("Trying to fail the build");
+		System("Extra lines");
 	}
 
 }
