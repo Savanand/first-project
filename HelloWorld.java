@@ -4,6 +4,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Added new statements");
 		System.out.println("HelloWorld from test-project");
+		System("Trying to fail the build");
 	}
 
 }
